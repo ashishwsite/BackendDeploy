@@ -1,0 +1,2 @@
+input{background:brown;border:3px solid #deb887;border-radius:7px}.icons{display:flex;flex-wrap:wrap;gap:7.5vw;justify-content:center}@media (max-width:420px){.imgtype{display:none}.grid{border:"solid 3px red"}}@media (min-width:422px){.grid{display:none}}.main{margin:2px}.main button{cursor:pointer;outline:none}.menu{display:none}a{margin:1px;padding:2px}.main:hover .menu,a{display:block}
+/*# sourceMappingURL=main.d9f6a8b1.css.map*/
